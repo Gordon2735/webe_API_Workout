@@ -1,0 +1,23 @@
+{
+	"name": "webe_api_workout",
+	"version": "1.0.0",
+	"description": "API WORKOUT PRACTICE && SANDBOX",
+	"type": "module",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Gordon2735/webe_API_Workout.git"
+	},
+	"author": "Gordon R Mullen Jr",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Gordon2735/webe_API_Workout/issues"
+	},
+	"homepage": "https://github.com/Gordon2735/webe_API_Workout#readme",
+	"dependencies": {
+		"axios": "^0.26.1"
+	}
+}
